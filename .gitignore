@@ -1,0 +1,14 @@
+# Virtual environment directory
+.venv/
+# Environment variables file
+.env
+# Build output directory
+target/
+# dbt packages directory
+dbt_packages/
+# Log files directory
+logs/
+# Python cache files
+__pycache__/
+# macOS system file
+.DS_Store
